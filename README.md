@@ -1,0 +1,1 @@
+# Infnet.ArquiteturaNET.SpotifyLite
